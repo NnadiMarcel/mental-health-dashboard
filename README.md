@@ -3,7 +3,7 @@
 **Power BI dashboard** exploring mental health survey trends and insights.
 
 **Author:** Nnadi Chibuike Marcellinus   
-**Tools:** Power BI (.pbix), xlsx, Power Query, 
+**Tools:** Power BI (.pbix), xlsx, Power Query
 
 ---
 
