@@ -3,7 +3,7 @@
 **Power BI dashboard** exploring mental health survey trends and insights.
 
 **Author:** Nnadi Chibuike Marcellinus   
-**Tools:** Power BI (.pbix), excel workbook, Power Query, 
+**Tools:** Power BI (.pbix), xlsx, Power Query, 
 
 ---
 
@@ -14,17 +14,16 @@ This project analyzes anonymized survey data to identify groups with high stress
 
 ## Files
 - `Mental health dashboard.pbix` — Power BI file (download / open in Power BI Desktop)  
-- `data/mental_health_sample_cleaned.csv` —  sample data  
+- `Mental_Health_Survey_Data_Large.xlsx` —  sample data  
 - `assets/` — screenshots 
 
-> ⚠️ All personal identifiers removed. Sample data only.
 
 ---
 
 ## How to open
 1. Download the PBIX from `files/` (or from the Release link).  
 2. Open with Power BI Desktop (latest).  
-3. If needed, load `data/mental_health_sample_cleaned.csv` via **Home → Get Data → CSV**.
+3. If needed, load `Mental_Health_Survey_Data_Large.xlsx` via **Home → Get Data → CSV**.
 
 ---
 
