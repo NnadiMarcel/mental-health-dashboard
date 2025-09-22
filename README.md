@@ -14,8 +14,8 @@ This project analyzes anonymized survey data to identify groups with high stress
 
 ## Files
 - `Mental health dashboard.pbix` — Power BI file (download / open in Power BI Desktop)  
-- `Mental_Health_Survey_Data_Large.xlsx` —  sample data  
-- `assets/` — screenshots 
+- `Mental_Health_Survey_Data_Large.xlsx` —  data set  
+- `mental health dashboard.png` — screenshots 
 
 
 ---
