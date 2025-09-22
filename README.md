@@ -7,8 +7,23 @@
 
 ---
 
-## Overview
-This project analyzes anonymized survey data to identify groups with high stress/anxiety and gaps in support access. It helps target outreach and design interventions.
+## Project Overview – Mental Health Dashboard
+
+This project presents an interactive Power BI dashboard that examines global mental-health survey data to uncover demographic patterns, common disorders, and underlying causes.
+Using anonymized responses, the dashboard enables users to:
+
+Profile mental-health prevalence by gender and age group to identify at-risk populations.
+
+Measure disorder distribution across conditions such as depression, burnout, anxiety, OCD, and more.
+
+Analyze root causes—including trauma, substance use, and social or financial pressures—that contribute to mental-health challenges.
+
+Filter by country/region to compare trends across multiple locations.
+
+The visualization helps stakeholders such as health agencies, HR teams, and policy makers quickly pinpoint priority areas for intervention and design evidence-based support programs.
+
+Tools & Skills Demonstrated:
+Power BI • Data Cleaning & Transformation (Power Query)• Data Visualization & Storytelling
 
 ---
 
@@ -28,10 +43,13 @@ This project analyzes anonymized survey data to identify groups with high stress
 ---
 
 ## Key insights 
-- Age band 25–34 shows highest average stress index.  
-- Regions A & B have low support access despite high incidence — recommended outreach priority.  
+- Gender & Mental-Health Issues
+- Age-Group Trends
+- Prevalence of Disorders
+- Primary Causes of Mental-Health Issues
+- Recommendations
 
 ---
 
 ## Contact
-[LinkedIn](YOUR-LINKEDIN-URL) • marcellinus4352@gmail.com
+[LinkedIn](https://www.linkedin.com/in/marcellinus-nnadi-40b2a1381/) • marcellinus4352@gmail.com
